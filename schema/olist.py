@@ -37,4 +37,7 @@ RULES FOR WRITING SQL:
 3. Always add a LIMIT clause (default LIMIT 100) unless the user asks for all data
 4. For date filtering, use ordered_at column with DATETIME functions
 5. Return only the SQL query, no explanation
+6. NEVER add WHERE clauses or date filters unless the user explicitly asks for them
+7. For "most popular", "highest", "lowest" questions — return ALL options ranked, not just the top 1. Use LIMIT 100.
+8. The data covers years 2016-2018, NOT 2020 or later
 """
