@@ -1,8 +1,12 @@
 streamlit
 langchain
+langchain-groq
+langchain-openai
 langchain-google-genai
+langchain-core
 google-cloud-bigquery
 google-cloud-bigquery-storage
 pandas
 python-dotenv
 pyarrow
+db-dtypes
