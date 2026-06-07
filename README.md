@@ -6,6 +6,10 @@ An AI-powered financial analyst that translates plain-English questions into Big
 
 🔗 **[Live Demo](https://fintech-llm-analyst.streamlit.app)**
 
+## DEMO Example
+
+ill add demo here soon
+
 ---
 
 ## What it does
