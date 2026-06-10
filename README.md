@@ -8,7 +8,7 @@ An AI-powered financial analyst that translates plain-English questions into Big
 
 ## DEMO
 
-gif here soon
+![Demo](docs/olist.gif)
 
 ---
 
